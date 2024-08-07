@@ -316,6 +316,7 @@ nav .navbar .links li:hover .js-sub-menu {
 
 @media (max-width: 768px) {
   .recentpost {
+    width: 340px;
     height: 233px;
   }
   .liveradio {
