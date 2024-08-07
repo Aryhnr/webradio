@@ -316,16 +316,16 @@ nav .navbar .links li:hover .js-sub-menu {
 
 @media (max-width: 768px) {
   .recentpost {
-    width: 340px;
+    width: 351px;
     height: 233px;
   }
   .liveradio {
-    width: 340px !important;
+    width: 350px !important;
   }
 }
 @media (min-width: 60px) {
   .postterbaru {
-    width: 351px;
+    width: 340px;
   }
 }
 .sub-footer {
